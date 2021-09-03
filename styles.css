@@ -1,0 +1,57 @@
+main {
+    font-family: 'Oswald', sans-serif;
+}
+
+.caption {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.caption p{
+    background-color: grey;
+    color: white;
+    width: 340px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+.main .img-div {
+    height: 200px;
+}
+
+#image{
+    display: block;
+    height: auto;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+#img-caption {
+    text-align: center;
+    font-weight: lighter;
+}
+#tribute-info {
+    text-align: center;
+    margin-bottom: 50px;
+}
+#tribute-info ul {
+    margin-left: 50%;
+    transform: translateX(-50%);
+    text-align: left;
+}
+blockquote {
+    width: 700px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+main h3 {
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
